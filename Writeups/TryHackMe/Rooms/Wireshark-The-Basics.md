@@ -28,15 +28,12 @@ There are two capture files given in the VM. You can use the "http1.pcapng" file
 
 Which file is used to simulate the screenshots?
 ![alt text](image.png)
+_Task 1: Awnser 1_
 
 Which file is used to answer the quesions?
+![alt text](image-1.png)
+_Task 1: Awnser 2_
 
 ### Task 2
-
-drag & drop screenshots here or use imgur and reference them using imgsrc
-
-Every screenshot should have some text explaining what the screenshot is about.
-
-Example below.
 
 _Ref 1: Network Diagram_
