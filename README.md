@@ -3,8 +3,8 @@
 - Walkthroughs
 
 # Certificates
+- Google Cybersecurity
 - TryHackMe: Soc level 1 (Currently doing)
-- Google Cybersecurity (Currently doing)
 - Microsft Azure Fundamentals (Planning)
 - CompTia Security+ (Planning)
 
