@@ -1,6 +1,6 @@
 # CTF
 - TryHackMe & HackTheBox
-- Walkthroughs
+- Writeups
 
 # Certificates
 - Google Cybersecurity
