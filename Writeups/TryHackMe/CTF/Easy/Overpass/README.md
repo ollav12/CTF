@@ -1,13 +1,7 @@
-# Capture The Flag: Overpass
+# Overpass
 
-- Name: <a href="https://tryhackme.com/r/room/overpass" target="_blank">Overpass</a>
+- URL: <a href="https://tryhackme.com/r/room/overpass" target="_blank">ctf</a>
 - Difficulty: Easy
-
-
-## Objective
-
-The purpose of this room is to learn the fundementals of packet analysis with Wireshark and how to find the needle in a haystack!
-
 
 ## Skills Learned
 
