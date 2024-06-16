@@ -2,7 +2,7 @@
 
 - Mode: CTF
 - Difficulty: Hard
-- URL: <a href="https://tryhackme.com/r/room/mrrobot" target="_blank">link</a>
+- URL: <a href="https://tryhackme.com/r/room/dailybugle" target="_blank">link</a>
 
 ## Skills Learned
 
