@@ -1,6 +1,9 @@
-# CTF
-- TryHackMe & HackTheBox
-- Writeups
+# CTF Writeups
+- TryHackMe & HackTheBox (Total)
+    - Easy: 0
+    - Medium: 0
+    - Hard: 0
+    - Insane 0
 
 # Certificates
 - Google Cybersecurity
