@@ -174,29 +174,29 @@ We can now see the total number of warnings for this file.
 
 We use the go to tool to find packet 4, once the packet is found we right click on HTTP and click apply filter.
 
-![alt text](image.png)
+![alt text](assets/image-23.png)
 
 We can now see that the filter query is HTTP.
 
-![alt text](image-1.png)
+![alt text](assets/image-24.png)
 
 
 **What is the number of displayed packets?**
 
 We can find the total number of packets displayed in the status bar.
 
-![alt text](image-2.png)
+![alt text](assets/image-25.png)
 
 
 **Go to packet number 33790 and follow the stream. What is the total number of artists?**
 
 We go to packet number "33790" and right click on the packet and click "follow HTTP stream". We can then input the "artist" in the find search field and click next until we have found every artist. We can see that the total number of artists is 3.
 
-![alt text](image-3.png)
+![alt text](assets/image-26.png)
 
 
 **What is the name of the second artist?**
 
 We can see tha the second name of the artis is "Blad3".
 
-![alt text](image-4.png)
+![alt text](assets/image-27.png)
