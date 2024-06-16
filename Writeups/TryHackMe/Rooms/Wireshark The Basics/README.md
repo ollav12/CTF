@@ -200,10 +200,3 @@ We go to packet number "33790" and right click on the packet and click "follow H
 We can see tha the second name of the artis is "Blad3".
 
 ![alt text](image-4.png)
-
-
-### Conclusion
-
--
--
--
