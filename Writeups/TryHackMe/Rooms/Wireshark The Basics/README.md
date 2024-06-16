@@ -154,4 +154,36 @@ We can now see the total number of warnings for this file.
 
 ### Task 5 - Packet Filtering
 
+Go to packet number 4. Right-click on the "Hypertext Transfer Protocol" and apply it as a filter. Now, look at the filter pane. What is the filter query?
+
+We use the go to tool to find packet 4, once the packet is found we right click on HTTP and click apply filter.
+
+![alt text](image.png)
+
+We can now see that the filter query is HTTP.
+
+![alt text](image-1.png)
+
+What is the number of displayed packets?
+
+We can find the total number of packets displayed in the status bar.
+
+![alt text](image-2.png)
+
+Go to packet number 33790 and follow the stream. What is the total number of artists?
+
+We go to packet number "33790" and right click on the packet and click "follow HTTP stream". We can then input the "artist" in the find search field and click next until we have found every artist. We can see that the total number of artists is 3.
+
+![alt text](image-3.png)
+
+What is the name of the second artist?
+
+We can see tha the second name of the artis is "Blad3".
+
+![alt text](image-4.png)
+
 ### Conclusion
+
+-
+-
+-
