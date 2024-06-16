@@ -103,9 +103,30 @@ Now we can inspect packet details to find the comment for this packet.
 We are now instructed to go to packet number "39765".
 ![alt text](image-15.png)
 
+We locate the JPEG file and right click on it and click "Export Packet Bytes".
+![alt text](image-16.png)
+
+We can calculate the md5 sum by using the "md5sum" command in the terminal.
+![alt text](image-17.png)
+
 There is a ".txt" file inside the capture file. Find the file and read it; what is the alien's name?
 
+We first have to locate the file and export the object using HTTP.
+![alt text](image-18.png)
+
+We locate the txt file and save it so we can inspect it in temrnial.
+![alt text](image-19.png)
+
+We can now inspect the file in terminal.
+![alt text](image-20.png)
+
 Look at the expert info section. What is the number of warnings?
+
+We click on the red dot in the status bar to look at export info.
+![alt text](image-21.png)
+
+We can now see the total number of warnings for this file.
+![alt text](image-22.png)
 
 ### Task 5 - Packet Filtering
 
